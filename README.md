@@ -20,5 +20,5 @@ This repository contains **Python implementations of basic machine learning algo
 - Hands-on experience implementing ML algorithms from scratch without libraries like scikit-learn.
 
 ### Author
-Amulya Raj JC
+**Amulya Raj JC**  
 Indian Institute of Technology Madras
