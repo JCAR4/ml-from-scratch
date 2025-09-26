@@ -14,21 +14,6 @@ This repository contains **Python implementations of basic machine learning algo
 - Uses **Entropy and Information Gain** to find the best splits.
 - Predicts class labels for a given dataset.
 
-## How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/<your-username>/ml-from-scratch.git
-```
-2. Navigate into the folder:
-```bash
-cd ml-from-scratch
-```
-3. Run the Python files:
-```bash
-python logistic_regression_from_scratch.py
-python decision_tree_from_scratch.py
-```
 ### Key Learnings
 - Understanding gradient descent and cost optimization for Logistic Regression.
 - Understanding node splitting logic and information gain for Decision Trees.
